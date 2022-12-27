@@ -50,7 +50,7 @@ function Projects() {
               title="Portfolio"
               description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website."
               ghLink="https://github.com/venkatavijayabhaskar007/React_Portfolio"
-              demoLink="https://github.com/VenkataVijayaBhaskar007/React_Portfolio"              
+              demoLink="https://react-portfolio-venkatavijayabhaskar007.vercel.app/"              
             />
           </Col>
 

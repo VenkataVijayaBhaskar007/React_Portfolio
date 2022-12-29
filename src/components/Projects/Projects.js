@@ -83,7 +83,7 @@ function Projects() {
               title="Search github user"
               description="In this project we can search a github user by searching their name. Works with API call in javascript and react."
               ghLink="https://github.com/VenkataVijayaBhaskar007/Search_GITHUB_user_using_REACT"
-              demoLink="https://venkatavijayabhaskar007.github.io/Search_GITHUB_user_/"   
+              demoLink="https://search-github-user-using-react.vercel.app/"   
             />
           </Col>
         </Row>

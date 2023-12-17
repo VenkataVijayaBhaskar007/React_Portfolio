@@ -26,7 +26,7 @@ function ResumeNew() {
         <h3> ***hint : If pdf loading takes time, Then click on "download cv" to view it</h3>
           <Button
             variant="primary"
-            href="https://raw.githubusercontent.com/VenkataVijayaBhaskar007/VenkataVijayaBhaskar007/main/vadada venkata vijaya bhaskar resume 2023.pdf"
+            href="https://raw.githubusercontent.com/VenkataVijayaBhaskar007/VenkataVijayaBhaskar007/main/N170820_Vadada Venkata Vijaya Bhaskar resume.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           > 
